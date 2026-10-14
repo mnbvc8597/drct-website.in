@@ -1,12 +1,12 @@
 {
-  "_help": "HOW TO EDIT: Each course is one {...} block inside the \"courses\" list. ADD: copy a block, paste after a comma, change the values. EDIT: change the text between quotes. REMOVE: delete the whole {...} block (and its comma). Keep every comma and quote. status must be Open, Closed or Coming Soon. featured true = shows on Home page. Check at jsonlint.com. The 3 records below are SAMPLES - replace them with real DRCT courses.",
+  "_help": "HOW TO EDIT: Each course is one {...} block inside the \"courses\" list. ADD: copy a block, paste after a comma, change the values. EDIT: change the text between quotes. REMOVE: delete the whole {...} block (and its comma). Keep every comma and quote. status must be Open, Closed or Coming Soon. featured true = shows on Home page. Check at jsonlint.com.",
   "courses": [
     {
       "code": "Drct-001",
       "name": "General Duty Aide",
       "category": "Healthcare",
       "scheme": "DDU-GKY",
-      "duration": "6 Months Class Room Training & 6 month Hospital Training",
+      "duration": "6 Months Class Room Training & 6 Months Hospital Training",
       "eligibility": "Age 18-40",
       "qualification": "10th Pass",
       "description": "Anatomy & Physiology, Patient Care & Hygiene, Clinical Assistance, Infection Control & Safety, Emergency Care",
@@ -19,11 +19,11 @@
       "name": "Billing Executive (Facility Management)",
       "category": "Tourism & Hospitality",
       "scheme": "DDU-GKY",
-      "duration": "6 Months Class Room Training & 6 month Hospital Training",
+      "duration": "6 Months Class Room Training & 6 Months Hospital Training",
       "eligibility": "Age 18-40",
       "qualification": "12th Pass",
-      "description": "Creating billing accounts,	Maintaining accounts in spreadsheets,	Preparing invoices and bills,	Payment handling,	Cheques and credit memos,	Communication and customer service,	Vendor bill verification and	Reports and closing",
-      "location": "DRCT Training Centre, Gobichettipalayam Erode",
+      "description": "Creating billing accounts, maintaining accounts in spreadsheets, preparing invoices and bills, payment handling, cheques and credit memos, communication and customer service, vendor bill verification, reports and closing",
+      "location": "DRCT Training Centre, Gobichettipalayam, Erode",
       "status": "Open",
       "featured": true
     }
