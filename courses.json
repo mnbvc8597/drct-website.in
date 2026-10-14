@@ -2,7 +2,7 @@
   "_help": "HOW TO EDIT: Each course is one {...} block inside the \"courses\" list. ADD: copy a block, paste after a comma, change the values. EDIT: change the text between quotes. REMOVE: delete the whole {...} block (and its comma). Keep every comma and quote. status must be Open, Closed or Coming Soon. featured true = shows on Home page. Check at jsonlint.com. The 3 records below are SAMPLES - replace them with real DRCT courses.",
   "courses": [
     {
-      "code": "SAMPLE-001",
+      "code": "Drct-001",
       "name": "Sample Course A (replace with real course)",
       "category": "IT & Computer",
       "scheme": "DDU-GKY",
