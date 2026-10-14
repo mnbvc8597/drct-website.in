@@ -9,7 +9,7 @@ const CONFIG = {
   phone: "9489807222",          // e.g. "+91XXXXXXXXXX"
   whatsapp: "9489807222",       // digits only with country code, e.g. "91XXXXXXXXXX"
   email: "drctgobi@gmail.com",          // e.g. "office@example.org"
-  address: "erode Main Road Lakshami Honda showroom Gobichettipalam Erode 638476",        // full postal address
+  address: "Erode Main Road Lakshami Honda showroom Gobichettipalam Erode 638476",        // full postal address
   hours: "Mon-Sat 9:00 AM - 5:30 PM",          // e.g. "Mon–Sat, 9:30 AM – 5:30 PM"
   registration: ""    // trust registration no. (only if verified)
 };
