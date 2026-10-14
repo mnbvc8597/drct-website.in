@@ -1,0 +1,44 @@
+{
+  "_help": "HOW TO EDIT: Each course is one {...} block inside the \"courses\" list. ADD: copy a block, paste after a comma, change the values. EDIT: change the text between quotes. REMOVE: delete the whole {...} block (and its comma). Keep every comma and quote. status must be Open, Closed or Coming Soon. featured true = shows on Home page. Check at jsonlint.com. The 3 records below are SAMPLES - replace them with real DRCT courses.",
+  "courses": [
+    {
+      "code": "SAMPLE-001",
+      "name": "Sample Course A (replace with real course)",
+      "category": "IT & Computer",
+      "scheme": "DDU-GKY",
+      "duration": "[Add duration, e.g. 3 months / 400 hours]",
+      "eligibility": "[Add age and eligibility]",
+      "qualification": "[Add minimum qualification]",
+      "description": "[Add a short description of what students will learn.]",
+      "location": "DRCT Training Centre, Gobichettipalayam",
+      "status": "Coming Soon",
+      "featured": true
+    },
+    {
+      "code": "SAMPLE-002",
+      "name": "Sample Course B (replace with real course)",
+      "category": "Technical",
+      "scheme": "DDU-GKY",
+      "duration": "[Add duration]",
+      "eligibility": "[Add age and eligibility]",
+      "qualification": "[Add minimum qualification]",
+      "description": "[Add a short description.]",
+      "location": "DRCT Training Centre, Gobichettipalayam",
+      "status": "Open",
+      "featured": true
+    },
+    {
+      "code": "SAMPLE-003",
+      "name": "Sample Course C (replace with real course)",
+      "category": "Retail & Services",
+      "scheme": "Other",
+      "duration": "[Add duration]",
+      "eligibility": "[Add age and eligibility]",
+      "qualification": "[Add minimum qualification]",
+      "description": "[Add a short description.]",
+      "location": "[Add location]",
+      "status": "Closed",
+      "featured": false
+    }
+  ]
+}

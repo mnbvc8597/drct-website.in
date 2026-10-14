@@ -1,0 +1,21 @@
+{
+  "_help": "HOW TO EDIT: Each notice is one {...} block in the \"announcements\" list. ADD: copy a block, paste it, change values. date format MUST be YYYY-MM-DD. Newest dates show first automatically. Notices from the last 30 days get a NEW badge. pdf: put the file in assets/pdf/ and write \"assets/pdf/filename.pdf\" (or \"\" if none). course: a course code or \"\". REMOVE: delete the block and its comma. The records below are SAMPLES.",
+  "announcements": [
+    {
+      "title": "Sample notice: Admissions open (replace with real notice)",
+      "date": "2026-10-01",
+      "category": "Admissions",
+      "description": "[Write the notice text here.]",
+      "course": "SAMPLE-002",
+      "pdf": ""
+    },
+    {
+      "title": "Sample notice: Placement drive (replace with real notice)",
+      "date": "2026-08-15",
+      "category": "Placements",
+      "description": "[Write the notice text here.]",
+      "course": "",
+      "pdf": ""
+    }
+  ]
+}
