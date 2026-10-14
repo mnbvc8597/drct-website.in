@@ -26,19 +26,6 @@
       "location": "DRCT Training Centre, Gobichettipalayam Erode",
       "status": "Open",
       "featured": true
-    },
-    {
-      "code": "SAMPLE-003",
-      "name": "Sample Course C (replace with real course)",
-      "category": "Retail & Services",
-      "scheme": "Other",
-      "duration": "[Add duration]",
-      "eligibility": "[Add age and eligibility]",
-      "qualification": "[Add minimum qualification]",
-      "description": "[Add a short description.]",
-      "location": "[Add location]",
-      "status": "Closed",
-      "featured": false
     }
   ]
 }
